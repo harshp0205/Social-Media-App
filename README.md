@@ -69,9 +69,9 @@ To run this application, you will need:
      ```
 
 5. **Install Dependencies for Backend**:
-   - Open another command line in the cloned folder and navigate to the `/server` directory:
+   - Open another command line in the cloned folder and navigate to the `/Backend` directory:
      ```bash
-     cd server
+     cd Backend
      ```
    - Install the necessary dependencies:
      ```bash
